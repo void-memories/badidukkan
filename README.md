@@ -1,6 +1,7 @@
 # badidukkantest
 
 A new Flutter project.
+Same codebase for ios & android.
 
 ## Getting Started
 
